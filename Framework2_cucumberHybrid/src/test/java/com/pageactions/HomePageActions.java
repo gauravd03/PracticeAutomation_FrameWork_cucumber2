@@ -12,7 +12,7 @@ public class HomePageActions {
 		PageFactory.initElements(Helper.getDriver(), obj);
 	}
 	
-	
+	//click on my account
 	public void clickOnMyAccount() {
 		obj.myAccount.click();
 	}
