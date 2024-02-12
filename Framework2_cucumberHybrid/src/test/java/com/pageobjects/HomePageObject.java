@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 public class HomePageObject {
 	
 	
-	
+	//page object
 	@FindBy (xpath="//a[text()='My Account']")
 	public WebElement myAccount;
 

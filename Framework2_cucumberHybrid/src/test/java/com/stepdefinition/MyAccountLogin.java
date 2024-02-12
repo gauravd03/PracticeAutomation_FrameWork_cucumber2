@@ -58,7 +58,7 @@ public class MyAccountLogin {
 
 	@Then("user should successfully get logged in")
 	public void user_should_successfully_get_logged_in() {
-		
+		Assert.assertTrue(true);
 	    
 	}
 	

@@ -66,3 +66,20 @@
 [DEBUG] 2024-01-18 13:53:01.481 [main] HSSFSheet - Time at start of cell creating in HSSF sheet = 1705566181481
 [DEBUG] 2024-01-18 13:53:01.481 [main] HSSFSheet - total sheet cell creation took 0ms
 [INFO ] 2024-01-18 13:53:03.144 [main] MyAccountLogin - User successfully got error message
+[DEBUG] 2024-02-01 11:52:14.645 [main] InternalWorkbook - Workbook (readfile) created with reclen=103
+[DEBUG] 2024-02-01 11:52:14.649 [main] InternalWorkbook - found SupBook record at 54
+[DEBUG] 2024-02-01 11:52:14.651 [main] InternalWorkbook - exit create workbook from existing file function
+[DEBUG] 2024-02-01 11:52:14.651 [main] HSSFWorkbook - convertLabelRecords called
+[DEBUG] 2024-02-01 11:52:14.651 [main] HSSFWorkbook - convertLabelRecords exit
+[DEBUG] 2024-02-01 11:52:14.659 [main] InternalSheet - sheet createSheet (existing file) exited
+[DEBUG] 2024-02-01 11:52:14.669 [main] HSSFSheet - Time at start of cell creating in HSSF sheet = 1706768534669
+[DEBUG] 2024-02-01 11:52:14.672 [main] HSSFSheet - total sheet cell creation took 3ms
+[DEBUG] 2024-02-01 11:52:14.787 [main] InternalWorkbook - Workbook (readfile) created with reclen=103
+[DEBUG] 2024-02-01 11:52:14.787 [main] InternalWorkbook - found SupBook record at 54
+[DEBUG] 2024-02-01 11:52:14.787 [main] InternalWorkbook - exit create workbook from existing file function
+[DEBUG] 2024-02-01 11:52:14.787 [main] HSSFWorkbook - convertLabelRecords called
+[DEBUG] 2024-02-01 11:52:14.787 [main] HSSFWorkbook - convertLabelRecords exit
+[DEBUG] 2024-02-01 11:52:14.787 [main] InternalSheet - sheet createSheet (existing file) exited
+[DEBUG] 2024-02-01 11:52:14.788 [main] HSSFSheet - Time at start of cell creating in HSSF sheet = 1706768534788
+[DEBUG] 2024-02-01 11:52:14.788 [main] HSSFSheet - total sheet cell creation took 0ms
+[INFO ] 2024-02-01 11:52:15.897 [main] MyAccountLogin - User successfully got error message
